@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Giới thiệu
+##  Giới thiệu
 
 Đây là dự án thiết kế và chế tạo **bo mạch học tập lập trình nhúng sử dụng vi điều khiển ATmega32**, được xây dựng nhằm phục vụ việc học tập, thực hành và nghiên cứu các hệ thống nhúng.
 
@@ -57,41 +57,7 @@ Các ngoại vi trên được tích hợp nhằm phục vụ nhiều bài thự
 ---
 
 ##  Các chuẩn giao tiếp
-
-### UART
-
-Sử dụng để giao tiếp giữa ATmega32 và máy tính thông qua mạch chuyển đổi USB-UART.
-
-### I2C
-
-Được sử dụng để giao tiếp với:
-
-- DS3231 RTC
-
-### SPI
-
-Được sử dụng cho:
-
-- Micro SD Card
-
-### 1-Wire
-
-Được sử dụng để giao tiếp với:
-
-- DS18B20
-
----
-
-## Nguồn
-
-Bo mạch hỗ trợ các mức điện áp:
-
-- **5V** cho ATmega32 và các ngoại vi tương ứng.
-- **3.3V** cho các ngoại vi yêu cầu điện áp thấp.
-
-Nguồn đầu vào được thiết kế thông qua cổng **Barrel Jack**.
-
----
+UART,I2C,SPI,1-Wire
 
 ##  Thiết kế bằng KiCad
 
