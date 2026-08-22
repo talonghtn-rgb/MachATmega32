@@ -1,11 +1,7 @@
 # ATmega32 Embedded Learning Board
 
-<p align="center">
-  <img src="Logo_hus.png" width="180">
-</p>
-
 <h2 align="center">
-  THIẾT KẾ VÀ CHẾ TẠO BO MẠCH LẬP TRÌNH NHÚNG DỰA TRÊN VI ĐIỀU KHIỂN AVR
+  THIẾT KẾ VÀ CHẾ TẠO BO MẠCH LẬP TRÌNH NHÚNG DỰA TRÊN VI ĐIỀU KHIỂN AVR CHO MỤC ĐÍCH GIÁO DỤC
 </h2>
 
 <p align="center">
@@ -24,7 +20,7 @@ Toàn bộ sơ đồ nguyên lý và PCB của bo mạch được thiết kế b
 
 ---
 
-## 🎯 Mục tiêu
+##  Mục tiêu
 
 - Thiết kế một bo mạch học tập dựa trên vi điều khiển **ATmega32**.
 - Tích hợp các ngoại vi thường sử dụng trong các bài thực hành vi điều khiển.
@@ -35,23 +31,9 @@ Toàn bộ sơ đồ nguyên lý và PCB của bo mạch được thiết kế b
 
 ---
 
-## 🧠 Vi điều khiển
+##  Vi điều khiển:  ATmega32
 
-### ATmega32
-
-- Vi điều khiển AVR 8-bit
-- Kiến trúc RISC
-- Nhiều GPIO
-- ADC
-- Timer/Counter
-- UART
-- SPI
-- I2C
-- Hỗ trợ lập trình ISP
-
----
-
-## 🔌 Các ngoại vi tích hợp
+##  Các ngoại vi tích hợp
 
 Bo mạch được thiết kế với các khối chức năng:
 
@@ -74,7 +56,7 @@ Các ngoại vi trên được tích hợp nhằm phục vụ nhiều bài thự
 
 ---
 
-## 🔗 Các chuẩn giao tiếp
+##  Các chuẩn giao tiếp
 
 ### UART
 
@@ -100,7 +82,7 @@ Sử dụng để giao tiếp giữa ATmega32 và máy tính thông qua mạch c
 
 ---
 
-## ⚡ Nguồn
+## Nguồn
 
 Bo mạch hỗ trợ các mức điện áp:
 
@@ -111,7 +93,7 @@ Nguồn đầu vào được thiết kế thông qua cổng **Barrel Jack**.
 
 ---
 
-## 🖥️ Thiết kế bằng KiCad
+##  Thiết kế bằng KiCad
 
 Project được thiết kế bằng **KiCad 9**.
 
@@ -133,3 +115,6 @@ ATmega32/
 ├── fp-lib-table
 ├── sym-lib-table
 └── Logo_hus.png
+
+
+## Hình ảnh sản phẩm trong quá trình làm
