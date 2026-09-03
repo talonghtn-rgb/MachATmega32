@@ -84,3 +84,4 @@ ATmega32/
 ```
 
 ## Hình ảnh sản phẩm trong quá trình làm
+Hình ảnh ở trên là bản đầu tiên làm, file ở trên đã sửa sau khi test các chức năng sửa những lỗi cho ra bản hoàn chỉnh nhất. 
